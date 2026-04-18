@@ -1,4 +1,5 @@
 # demo
 this is my first repository
 <br>
-authore: lakshya sharma
+authore: lakshya sharma (sharma)
+
